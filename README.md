@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=ai-null&show_icons=true&theme=onedark" align="right" />
-
 Hi, my name is Ainul. Im currently learning about **Kotlin** on <b>[Google Codelabs](https://codelabs.developers.google.com/android-kotlin-fundamentals/)</b> for hobbies and professional purposes.
+
+<img src="https://github-readme-stats.vercel.app/api?username=ai-null&show_icons=true&theme=onedark" />
 
 <!--
 **ai-null/ai-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
