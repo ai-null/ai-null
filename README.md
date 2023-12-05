@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ai-null&show_icons=true&hide_rank=true" />
-
 ### Hi there 👋
 
 Hi, my name is Ainul.
